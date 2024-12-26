@@ -24,3 +24,5 @@ We will perform three different analyses:
 2. **Multidimensional Exploratory Analysis**: Using dimensionality reduction methods like PCA, tSNE, and MDS, we will project the songs in a 2D space to interpret relationships and identify outliers.
 3. **Predictive Analysis**: We'll build models to predict playlist membership or song rankings based on the 10 variables and assess model performance.
 
+## Author
+Solène Catella
